@@ -24,7 +24,7 @@ body {
 	width: 90%;
 	max-width: 1200px;
     background-size: cover;
-    background: url('bg-header3.jpeg');
+    background-img: url('hack.jpg');
     background-position:center;
 	margin-left: auto; 
 	margin-right: auto;
